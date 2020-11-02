@@ -1,5 +1,5 @@
 # snake-game
- Snake game development in Java
+ Development of the Snake game with Java Swing components
  
  ## Game Interface
  ![Github Logo](/screenshots/game.png)
