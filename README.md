@@ -8,10 +8,10 @@
 
  ## How to play
  Game keys:
- *W - Up
- *S - Down
- *D - Right
- *A - Left
- *Enter - Only Restart in Game Over
- *Space - Pause
+ * W - Up
+ * S - Down
+ * D - Right
+ * A - Left
+ * Enter - Only Restart in Game Over
+ * Space - Pause
  
